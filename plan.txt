@@ -1,0 +1,9 @@
+base functions
+- find product
+- monitor availability
+- purchase product
+- customizable
+
+side functions
+- multiple executions
+- accept proxies
